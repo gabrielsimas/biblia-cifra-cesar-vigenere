@@ -13,7 +13,6 @@ Este repositório contém o MVP (Minimum Viable Product) desenvolvido para a Pó
 * [Arquitetura da Solução](#arquitetura-da-solução)
 * [O Dataset](#o-dataset)
 * [Resultados Principais](#resultados-principais)
-* [Estrutura do Repositório](#estrutura-do-repositório)
 * [Como Executar](#como-executar)
 * [Autor](#autor)
 
